@@ -1,0 +1,4 @@
+pojemnosc dysku: C:453GB, D:451GB, M:24,9GB
+ilosc pamieci RAM: 8,00 GB
+rodzaj i predkosc procesora: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz  1.80 GHz
+typ systemu: 64-bitowy system operacyjny
