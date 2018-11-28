@@ -1,6 +1,6 @@
 # Coś o słuchaniu
 
-Człowiek jest w stanie usłyszeć ** aż 400 słów na minutę, ** jednak jest w stanie wypowiedzieć około _100 słów na minutę_.
+Człowiek jest w stanie usłyszeć **aż 400 słów na minutę** jednak jest w stanie wypowiedzieć około _100 słów na minutę_.
 
 ## I co z tego?
 
